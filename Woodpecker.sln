@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Woodpecker", "Woodpecker.csproj", "{67375355-3EA7-4B95-8A00-EB59A37FB720}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67375355-3EA7-4B95-8A00-EB59A37FB720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67375355-3EA7-4B95-8A00-EB59A37FB720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67375355-3EA7-4B95-8A00-EB59A37FB720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67375355-3EA7-4B95-8A00-EB59A37FB720}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27D9B6F8-679C-4AFC-A3AB-1092215188F7}
+	EndGlobalSection
+EndGlobal
